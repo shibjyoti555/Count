@@ -5,6 +5,7 @@ A mesmerizing, interactive counter that transforms with every keystroke! Watch a
 ## 🚀 What is this magical contraption?
 
 This isn't your ordinary boring counter. It's a full-sensory experience that turns the simple act of counting into a visual feast! Every press of the spacebar unleashes a symphony of:
+
 - 🌈 **Random color explosions** (background goes wild!)
 - 🎭 **Font transformations** (watch typography come alive!)
 - ✨ **Pulsing animations** (numbers with a heartbeat!)
@@ -12,7 +13,8 @@ This isn't your ordinary boring counter. It's a full-sensory experience that tur
 
 ## 🎮 How to Play
 
-### Controls:
+### Controls
+
 - **SPACEBAR** 🚀 - Increment the counter and trigger the visual chaos!
   - Each press increases the number by 1
   - Background color goes rogue with random dark shades
@@ -27,7 +29,7 @@ This isn't your ordinary boring counter. It's a full-sensory experience that tur
 
 ## 📁 File Structure
 
-```
+```text
 rainbow-counter/
 ├── index.html     # The foundation - clean HTML structure
 ├── styles.css     # The beauty - animations and styling magic
@@ -59,7 +61,7 @@ rainbow-counter/
 4. Start mashing that spacebar! 🎉
 5. Press Enter when you want to start over
 
-## 🎪 Perfect For:
+## 🎪 Perfect For
 
 - Stress testing your spacebar
 - Hypnotizing friends and family
